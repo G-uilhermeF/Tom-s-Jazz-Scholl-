@@ -15,9 +15,7 @@
 - Figma
 
 ### Links
-
-- Solution URL:
-- Live Site URL:
+- Live Site URL:[https://g-uilhermef.github.io/Tom-s-Jazz-Scholl-/](https://g-uilhermef.github.io/Tom-s-Jazz-Scholl-/)
 
 ### Desenvolvimento contínuo
 
